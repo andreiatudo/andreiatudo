@@ -2,7 +2,7 @@
 
 ## 🚀 About Me  
 - 🔹 Passionate about **C and C++ development**  
-- 🔹 Love exploring **data structures and algorithms**  
+- 🔹 Enjoy delving into **data structures and algorithms**  
 - 🔹 Enjoy solving **complex problems and optimizing performance**  
 
 ## ⚡ Technologies & Tools  
