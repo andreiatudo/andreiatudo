@@ -1,9 +1,7 @@
 # 👋 Hi, I'm Atudosiei Andrei Cristian  
 
 ## 🚀 About Me  
-- 🔹 Passionate about **C and C++ development**  
-- 🔹 Enjoy delving into **data structures and algorithms**  
-- 🔹 Enjoy solving **complex problems and optimizing performance**  
+- 🔹 Passionate about **C and C++**  
 
 ## ⚡ Technologies & Tools  
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  
