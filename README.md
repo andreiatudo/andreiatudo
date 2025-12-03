@@ -8,7 +8,4 @@
 
 ## 📊 My GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=**andreiatudo**&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=**andreiatudo**&layout=compact&theme=radical&hide_border=true" alt="Programming Languages" />
-</div>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=andreiatudo&theme=dark)](https://git.io/streak-stats)
