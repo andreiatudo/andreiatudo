@@ -7,4 +7,11 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## 📊 My GitHub Stats
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=andreiatudo&theme=dark&background=000000)](https://git.io/streak-stats)
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=andreiatudo&show_icons=true&theme=radical&hide_border=true" alt="Statistici GitHub" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreiatudo&layout=compact&theme=radical&hide_border=true" alt="Limbaje utilizate" />
+
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=andreiatudo&theme=dark" alt="GitHub Streak" />
+</div>
