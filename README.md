@@ -10,11 +10,5 @@
 ## 📊 My GitHub Stats
 
 <div align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api?username=andreiatudo&show_icons=true&theme=vue&hide_border=true&rank_icon=github&cache_bust=3" alt="Statistici GitHub" />
-  
-<img src="https://readme-stats.vercel.app/api/top-langs/?username=andreiatudo&layout=compact&theme=vue&hide_border=true&cache_bust=3" alt="Limbaje utilizate" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=andreiatudo&theme=dark&hide_border=true&cache_bust=3" alt="GitHub Streak" />
-
+<img src="https://github-readme-streak-stats.herokuapp.com?user=andreiatudo&theme=dark&hide_border=true" alt="GitHub Streak" />
 </div>
