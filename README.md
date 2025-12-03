@@ -9,6 +9,4 @@
 
 ## 📊 My GitHub Stats
 
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=andreiatudo&theme=dark&hide_border=true" alt="GitHub Streak" />
-</div>
+[![GitHub Streak](https://github-readme-streak-stats-gamma-one-55.vercel.app?user=andreiatudo&theme=github-dark-blue)](https://git.io/streak-stats)
